@@ -1,5 +1,4 @@
 # IAkarit-
 Assistant ia contextuel 
 Bonjour.
-Bonsoir 
-OUI
+Bonsoir les codeursenherbe
